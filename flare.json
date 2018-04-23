@@ -1,0 +1,96 @@
+{
+    "name": "W.W.Chan ",
+    "children": [{
+        "name": "Mens",
+        "children": [{
+                "name": "Suits",
+
+                "children": [{
+                        "name": "Fabric Selection",
+
+                        "size": 3990
+                    },
+                    {
+                        "name": "Measurement",
+                        "children": [{
+                                "name": "Pattern cutting",
+                                "size": 5462
+                            },
+                            {
+                                "name": "Pattern matching",
+                                "size": 2454
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Baste fitting",
+                        "children": [{
+                                "name": "Secondary fittings",
+                                "children": [{
+                                    "name": "Third or more ",
+                                    "size": 2768
+                                }]
+
+                            }
+
+                        ]
+                    },
+                    { "name": "Hand-stitching & handiwork ", "size": 4220 },
+                    { "name": "Ironing", "size": 4220 }
+
+                ]
+
+            },
+
+            {
+                "name": "Shirts",
+                "children": [{
+                        "name": "Fabric Selection",
+                        "size": 6534
+
+                    },
+                    {
+                        "name": "Paper pattern",
+                        "size": 8833
+                    },
+                    {
+                        "name": "Accessories",
+                        "size": 6263
+
+                    },
+                    {
+                        "name": "Handiwork",
+                        "children": [
+                            { "name": "sewn button", "size": 8833 }
+                        ]
+                    },
+                    {
+                        "name": "others",
+                        "children": [
+                            { "name": "Personalized initialing fonts ", "size": 1983 },
+                            { "name": "Fasten stitches ", "size": 2042 },
+                            { "name": "French seam", "size": 4325 },
+                            { "name": "collar bones", "size": 5243 }
+                        ]
+                    }
+
+                ]
+            }, {
+                "name": "Accessories",
+                "children": [
+                    { "name": " umbrella from Mario Talarico ", "size": 1983 },
+                    { "name": "knitwear from Lockies ", "size": 2042 },
+                    { "name": "ties from E.& G. Cappelli ", "size": 4325 },
+                    { "name": "scarves, wraps from Begg & Co", "size": 5243 },
+                    { "name": "braces, belts and bow ties from Bretelle & Braces", "size": 2342 }
+
+                ]
+            }
+        ]
+    }, {
+        "name": "Ladys",
+        "children": [
+            { "name": "IRENE FASHIONS", "size": 5243 }
+        ]
+    }]
+}
